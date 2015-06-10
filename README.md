@@ -9,8 +9,8 @@ http://www.liaoxuefeng.com/article/0014007460517001bbb3e2f624a4917b742635e9a6b15
     
 ## Usages
 
-  var express       = require('express');
-  var request-time  = require('request-time');
+    var express       = require('express');
+    var request-time  = require('request-time');
   
-  var app = new express();
-  app.use(request-time);
+    var app = new express();
+    app.use(request-time);
