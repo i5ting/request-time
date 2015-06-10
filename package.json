@@ -1,0 +1,19 @@
+{
+  "name": "request-time",
+  "version": "1.0.0",
+  "description": "http://www.liaoxuefeng.com/article/0014007460517001bbb3e2f624a4917b742635e9a6b15dd000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/request-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/request-time/issues"
+  },
+  "homepage": "https://github.com/i5ting/request-time#readme"
+}
