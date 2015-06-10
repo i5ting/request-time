@@ -4,6 +4,7 @@
   "description": "http://www.liaoxuefeng.com/article/0014007460517001bbb3e2f624a4917b742635e9a6b15dd000",
   "main": "index.js",
   "scripts": {
+    "start": "npm publish .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
